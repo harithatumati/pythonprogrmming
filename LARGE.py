@@ -1,6 +1,6 @@
-a=raw_input()
-b=raw_input()
-c=raw_input()
+a=23
+b=02
+c=89
 if (b<a>c):
 	print(a)
 elif(a<b>c):
