@@ -1,3 +1,4 @@
-v=int(raw_input())
-n=(len(str(v)))
-print(n)
+a=int(raw_input())
+sum=(a*(a+1))/2
+print(sum)
+
