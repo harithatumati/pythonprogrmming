@@ -1,4 +1,4 @@
-n=int(raw_input())
-p=n*6
-for x in range(n,p,n):
+N=int(raw_input())
+P=N*6
+for x in range(N,P,N):
  print(x)
