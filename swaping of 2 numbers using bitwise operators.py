@@ -1,4 +1,4 @@
-n,m=map(int,input().split())
+n,m=map(int,raw_input().split())
 temp=n
 n=m
 m=temp
